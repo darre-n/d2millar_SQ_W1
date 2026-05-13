@@ -17,10 +17,10 @@ To play via GitHub Pages, visit the link provided on the submission page.
 
 ## Assets
 
-| File                           | Source                      |
-| ------------------------------ | --------------------------- |
-| `assets/images/controller.png` | Drawn by Karen Cochrane     |
-| `assets/images/jenga.jpg`      | Drawn by Karen Cochrane [1] |
+| File                           | Source                        |
+| ------------------------------ | ----------------------------- |
+| `assets/images/controller.png` | Drawn by Karen Cochrane       |
+| `assets/images/jenga.jpg`      | By simplywonderfultoys.ca [1] |
 
 ## References
 
