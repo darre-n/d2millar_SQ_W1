@@ -17,10 +17,11 @@ To play via GitHub Pages, visit the link provided on the submission page.
 
 ## Assets
 
-| File                      | Source                  |
-| ------------------------- | ----------------------- |
-| `assets/images/jenga.png` | Drawn by Karen Cochrane |
+| File                           | Source                      |
+| ------------------------------ | --------------------------- |
+| `assets/images/controller.png` | Drawn by Karen Cochrane     |
+| `assets/images/jenga.jpg`      | Drawn by Karen Cochrane [1] |
 
 ## References
 
-N/A
+[1] Hasbro. 2020. Jenga Classic [Photograph]. Retrieved May 13, 2026 from https://simplywonderfultoys.ca/cdn/shop/products/converted005b2d135f66e8d31a89b4921c12730bb4942d43.jpg?v=1604333244&width=1445
